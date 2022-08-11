@@ -1,0 +1,15 @@
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\seminare-2-homework.csproj.AssemblyReference.cache
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\seminare-2-homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\seminare-2-homework.AssemblyInfoInputs.cache
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\seminare-2-homework.AssemblyInfo.cs
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\seminare-2-homework.csproj.CoreCompileInputs.cache
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\bin\Debug\net6.0\seminare-2-homework.exe
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\bin\Debug\net6.0\seminare-2-homework.deps.json
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\bin\Debug\net6.0\seminare-2-homework.runtimeconfig.json
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\bin\Debug\net6.0\seminare-2-homework.dll
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\bin\Debug\net6.0\seminare-2-homework.pdb
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\seminare-2-homework.dll
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\refint\seminare-2-homework.dll
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\seminare-2-homework.pdb
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\seminare-2-homework.genruntimeconfig.cache
+D:\HomeWork seminars\homework seminare 2 tasks\seminare-2-homework\obj\Debug\net6.0\ref\seminare-2-homework.dll
